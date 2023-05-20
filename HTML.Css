@@ -1,5 +1,5 @@
-# google-search
- Google search homepage in HTML & CSS
+
+@ Google search homepage in HTML & CSS
 <!DOCTYPE html>
 <html lang="en">
     <head><footer></footer>
@@ -7,7 +7,8 @@
               </head><haed>
            ( hello the world )   
    <meta charset="utf-8">
-<script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM
+<script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"1e7946724e",applicationID:"31671751"};;(()=>{var e,t,r={9071:(e,t,r)=>{"use strict";r.d(t,{I:()=>n});var
+          
     <!-- Fancybox API -->
         <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css" />
 <meta name="gongle-signin-client-id" content="google-site-verification:
