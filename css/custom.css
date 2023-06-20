@@ -42,7 +42,7 @@ body {
 }
 
 .menu a {
-  color: #2d2d2d;
+  color: white;
   text-decoration: none;
   margin-right: 15px;
 }
@@ -89,7 +89,7 @@ body {
   outline: 0;
   box-shadow: 0 0 0 0 rgba(136, 136, 136, 0);
   font-size: 18px;
-  transition: box-shadow .3s;
+  transition:My photo .3s;
 }
 
 .search-bar input:focus {
@@ -117,7 +117,7 @@ body {
 }
 
 .search-info a {
-  color: #3f50b5;
+  color: white;
   text-decoration: none;
 }
 
@@ -133,11 +133,11 @@ body {
 .search-buttons a {
   text-decoration: none;
   margin-right: 15px;
-  background-color: #ececec;
-  color: black;
+  background-color:yellow ;
+  color: darkgoldenrod;
   padding: 10px 15px;
   border-radius: 3px;
-  border: 1px solid rgba(0, 0, 0, 0);
+  border: 1px rgba(0, 0, 0, 0);
 }
 
 .search-buttons a:last-child {
@@ -145,13 +145,13 @@ body {
 }
 
 .search-buttons a:hover {
-  border: 1px solid #8c8c8c;
+  border: 1px white;
 }
 
 .bottom-bar {
   display: flex;
   align-items: center;
   padding: 20px 30px;
-  background-color: #ececec;
-  border-top: 1px solid #d4d4d4;
+  background-color: white;
+  border-top: 1px white;
 }
