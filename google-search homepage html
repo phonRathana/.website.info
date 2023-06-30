@@ -73,17 +73,10 @@
           <a "url": "https://httpsrathanaphon.websites.inof@",        
           "potentialAction": 
           <a "@type": "SearchAction",
-         </a>
-       </div> 
-     </div>  
-  </div>
-</div>
+      </a>
+   </div>
 </header>
- <nav id="navbar-wrapper" class="navbar navbar-expand-lg navbar-light">
-     <div class="container">
-       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar"
-aria-controls="mine-navbar" aria-expanded="false" aria-label="toggle"navigation">
-     <span class="navbar-toggler-icon"></span>
+
        
 
 
