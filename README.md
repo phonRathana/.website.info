@@ -1,3 +1,4 @@
+@google-search
 <!DOCTYPE html>
 <html lang="en"
 </html>
@@ -28,7 +29,7 @@
   <meta property="og:image">
   <meta name="geo.placename" content="Phnom Penh">
   <meta name="geo.region" content="KH">
-	<link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://maxcdn.icons8.com/fonts/line-awesome/1.1/css/line-awesome-font-awesome.min.css">
   <link rel="stylesheet" href="css/custom.css">   
       <title" Rathana phone Shop1 in  Phnom Penh </title> 
@@ -43,7 +44,7 @@
      <link rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/e-shop/css/ecommerce.min.css?v=1627190672">       
      <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.5.0/css/ol.css" type="text/css">
         <!-- FontAwesome -->
-      <link rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/e-shop/fonts/css/all.min.css">
+    <link rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/e-shop/fonts/css/all.min.css">
         <!-- Fancybox API -->
      <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css" />
         <!-- slick-->
@@ -97,14 +98,14 @@
 							<Use our>
 <a href="https://play.google.com/Shop/apps/details
 id=5190574364 https://httpsrathanaphon.websote.inof@/"websitesapp" 
-<div class="btn btn-outline-primary" target="_blank">								Website.https://httpsrathanaphon.website.inof@/App
+<div class="btn btn-outline-primary" target="_blank">Website.https://httpsrathanaphon.website.inof@/App
 							</a> <i class="fab fa-search"></i>
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>			
-  <body>
+ <body>
 <html>
   
    
