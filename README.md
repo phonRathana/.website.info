@@ -100,11 +100,11 @@
 <a href="https://play.google.com/store/apps/details?id=https://httpsrathanaphon.websote.inof@/"websitesapp"
      <div class="btn btn-outline-primary" target="_blank">
            <div class="https://httpsrathanaphon.website.inof@/App
-                 <i class="fab fa-search"></i>
-                </div>
-     				   </div>
+                    <i class="fab fa-search"></i>
+	        </div> 
+              </div>
             </div>
          </div>
       </div>			
-    </body>
- </html>				            
+   </body>
+</html>				            
