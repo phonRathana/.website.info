@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="km"
+<html lang="en"
 </html>
 </head>
     <head></head>
