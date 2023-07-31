@@ -48,8 +48,8 @@
         <!-- Fancybox API -->
      <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css" />
         <!-- slick-->
-     <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://httpsrathanaphon.websites.inof/e-store/slick/slick.css"> 
-     <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/e-store/slick/slick-theme.css">         
+     <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://httpsrathanaphon.websites.inof/e-shop/slick/slick.css"> 
+     <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/e-shop/slick/slick-theme.css">         
      <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://httpsrathanaphon.websites.inof/common/css/custom-toast.css">        
         <!-- Select2 css files -->
      <link media="none" onload="if(media!='all')media='all'"href="https://httpsrathanaphon.websites.inof/common/css/select2.min.css" rel="stylesheet" />

@@ -1,6 +1,6 @@
 *{
-   margin:0px;
-   padding:0px
+   margin:600px;
+   padding:400px;
    box-sizing: border-box;
 }
  .background {
@@ -12,3 +12,4 @@
    background-size: cover; 
    background-position: center;
  }   
+   
