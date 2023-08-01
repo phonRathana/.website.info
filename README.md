@@ -35,7 +35,7 @@
       <title> Rathana phone Shop1 in  Phnom Penh </title> 
         <!-- brand logo -->
     <img class="td-none text-center">
-       <img class="business-logo mr-3" src="https://httpsrathanaphon.websites.co.in/files/971938/business/logo/logo-1332537698.jpeg?v=744005152" 
+       <img class="business-logo mr-3" src="https://httpsrathanaphon.websites.co.in/files/971938/business/logo/logo-1332537698.jpeg?v=744005152">
         <!-- Favicon -->
     <link rel="icon" href="https://httpsrathanaphon.websites.info/files/971938/favicon/favicon.png?v=1078145314" type="image/png" />
         <!-- Google font -->
@@ -71,14 +71,14 @@
 }
 </script>
 	</head>
-	<body style="height:100vh; background-color:#eee">
+	<body style="height:100vh; background-color:#FFFFF">
 		<div class="container d-flex h-100">
 			<div class="row justify-content-center align-self-center">
 				<div class="col-md-10 mx-auto">
 					<div class="card shadow">
 						<div class="row">
 							<div class="col-md-4 mx-auto">
-								<img src="https://httpsrathanaphonwebsite.inof@/files/9711938/landing/img/logo_color_116x41dp.png" 
+								<img src="https://httpsrathanaphonwebsite.info/files/9711938/landing/img/logo_color_116x41dp.png" 
           <div class="card-img-top img-responsive" alt=Rathana phone shop1">
              <img class="bussing-brand-logo-">
 								<nav id="navbar-wrapper" class="navbar navbar-expand-lg navbar-light">
@@ -118,7 +118,7 @@
 <a href="https://play.google.com/Store/apps/details
 id=5190574364 https://httpsrathanaphon.websote.info/"websitesapp" 
 <div class="btn btn-outline-primary" target="_blank">Website.https://httpsrathanaphon.website.info/App
-							</a> <i class="fab fa-Android"></i>
+							</a> <i class="fa fa-Android"></i>
 						</div>
 					</div>
 				</div>
