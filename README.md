@@ -94,7 +94,7 @@
  </form>
           <input type="email" placeholder="Enter Email..." required>
           <button type="submit" class="button_1">Subscribe</button>
-   </form>
+</form>
 							</a>
 					<a href="https://httpsrathanaphon.website.info/login">
             <div class="btn btn-outline-primary">
@@ -106,6 +106,10 @@
 							<div>
   							<label>Name</label><br>
   							<input type="text" placeholder="Name">
+			           </div>
+  						<div>
+  						  <label>lastName</label><br>
+  							<input type="text" placeholder="lastName">
   					</div>
   						<div>
   							<label>Email</label><br>
