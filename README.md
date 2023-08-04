@@ -1,6 +1,6 @@
 
 <!DOCTYPE html>
-<html lang="en-us" dir="ltr">
+<html lang="en-us">
 </html>
 </head>
   </body>
@@ -19,7 +19,6 @@
   <link href=apple-app-touch-icon" content=yes">
   <link href="https://httpsrathanaphon.websites.info/files/971938/favicon/favicon.png?v="/>
   <meta name="theme-color" content="#FFFFFFfv6'jn+:jnv'">
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5318736670">
 
   <meta name="title" content="Rathana phone Shop1 in  Phnom Penh">
   <meta name="description" content="Business As a loyal partner sell technology">
@@ -34,6 +33,7 @@
   <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://maxcdn.icons8.com/fonts/line-awesome/1.1/css/line-awesome-font-awesome.min.css">
   <link rel="stylesheet" href="css/custom.css">   
+  <meta name="viewport" content="width=device-width, initial-scale=1">
       <title> Rathana phone Shop1 in  Phnom Penh </title> 
         <!-- brand logo -->
     <img class="td-none text-center">
@@ -106,6 +106,9 @@
 							<div>
   							<label>Name</label><br>
   							<input type="text" placeholder="Name">
+               </div>
+                 <div>
+                      <label>Lastname<label><br>                    <input type="text" placeholder="lastName">
   					</div>
   						<div>
   							<label>Email</label><br>
