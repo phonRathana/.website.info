@@ -1,19 +1,19 @@
 {
     
-    "version":"0.2.0",
+    "version":"2.0.0",
     "configurations": [
         {
-           "name": "Attach to Chrome",
+           "name": "open in browser",
            "port": 9222,
-           "request": "attach",
-           "type": "chrome",
+           "request": "browse",
+           "type": "browse",
            "webRoot": "${workspacefolder}",
         },
         {
-            "name": "Attach to Chrome",
+            "name": "open in browse",
             "port": 9222,
-            "request": "attach",
-            "type": "chrome",
+            "request": "browse",
+            "type": "browse",
             "webRoot": "${workspaceFolder}"
         },
         {
@@ -29,17 +29,17 @@
             "type": "extensionHost"
         },
         {
-            "name": "Attach to Chrome",
+            "name": "open in browse",
             "port": 9222,
-            "request": "attach",
-            "type": "chrome",
+            "request": "browse",
+            "type": "browse",
             "webRoot": "${workspaceFolder}"
         },
         {   
-            "type": "chrome",
+            "type": "browse",
             "request": "launch",
             "name": "Open index.html",
-            "file": "/workspaces/Google-search/index.html"
+            "file": "/workspaces/https://www.google.com/index.html"
         }
      ]
  }
