@@ -112,7 +112,7 @@
   							<input type="text" placeholder="Name">
 						</div>
 							<div>
-								<label>lastlName</label><br>
+						    <label>lastlName</label><br>
   							<input type="text" placeholder="lastName">
   					</div>
   						<div>
