@@ -35,7 +35,7 @@
   <link rel="stylesheet" href="css/custom.css">   
   <meta name="viewport" content="width=device-width, initial-scale=1">
       <title> Rathana phone Shop1 in  Phnom Penh </title> 
-        <!-- brand logo -->
+        <!-- brand logo profiles -->
     <img class="td-none text-center">
        <img class="business-logo mr-3" src="https://httpsrathanaphon.websites.co.in/files/971938/business/logo/logo-1332537698.jpeg?v=744005152" 
         <!-- Favicon -->
@@ -104,19 +104,20 @@
              <div class="btn btn-outline-primary" target="_blank">
 					 </div>
 						<div>
-  						<label>Name</label><br>
-  						<input type="text" placeholder="Name">
-                  </div>
-                    <div>
-                        <label>Lastname<label><br>                   <input type="text" placeholder="lastName">
+  					   	<label>Name</label><br>
+  					   	<input type="text" placeholder="Name">
+            </div>
+              <div>
+                 <label>Lastname<label><br>
+                 <input type="text" placeholder="lastName">
   					</div>
   						<div>
-  						 <label>Email</label><br>
-  						 <input type="text" placeholder="Email Address">
+  						  <label>Email</label><br>
+  						  <input type="text" placeholder="Email Address">
   					</div>
   						<div>
-  						 <label>Message</label><br>
-  						 <input type="text"laceholder="Message text">
+  						  <label>Message</label><br>
+  						  <input type="text"laceholder="Message text">
   					</div>
   						<button class="button_1" type="submit">Send</button>					
 							<User name>
