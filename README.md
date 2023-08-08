@@ -110,15 +110,9 @@
 							<div>
   							<label>Name</label><br>
   							<input type="text" placeholder="Name">
-
-
-
-
-
 						</div>
 							<div>
 								<label>lastlName</label><br>
-
   							<input type="text" placeholder="lastName">
   					</div>
   						<div>
@@ -134,7 +128,7 @@
 <a href="https://play.google.com/Store/apps/details
 id=5761455231/https://httpsrathanaphon.websote.info/"websitesapp" 
 <div class="btn btn-outline-primary" target="_blank">Website.https://httpsrathanaphon.website.info
-							</a> <i class="fab fa-Android"></i>
+							</a> <i class="fab fa-wed.app"></i>
 						</div>
 					</div>
 				</div>
