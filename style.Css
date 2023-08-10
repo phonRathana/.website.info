@@ -1,0 +1,89 @@
+/* image profiles.logo.jpg  */
+#profiles.Logo.jpg images {
+  min-height:400px;
+  background:url('../img/profiles.logo.background') no-repeat;
+
+/* My photo */
+#images.My photo.log{
+  min-height:400px;
+  background:url('../img/profiles_logo.jpg') no-repeat;
+  border: #ffffff;
+  background-position: center;
+  background-size: cover;
+  text-align:center;
+  color:#ffffff;
+}
+  #profiles.logo h1{
+   margin-top:480px;
+   font-size:360px;
+   margin-bottom:10px;
+  }
+
+  #My photo p{
+    font-size:20px;
+}
+   /* profiles.logo.jpg.images */
+  #perfect.logo{
+    padding:15px;
+    color:#ffffff;
+    background: darkorange #ffffff;
+}
+  #profiles.logo.jpg h1{
+    float:left;
+}
+
+  #profiles.logo.jpeg {
+    float:right;
+    margin-top:15px;
+}
+  #Gmail.images {
+    padding:6px;
+    height:25px;
+    width:250px;
+}
+
+  /* Boxes */
+   #boxes{
+   margin-top:20px;
+}
+#img My.photo  h1{
+  margin-top:480px;
+  font-size:640px;
+  margin-bottom:10px;
+}
+
+#text-decoration p{
+  font-size:20px;
+}
+/* business Logo*/
+#business Logo{
+  padding:460px;
+  color:#ffffff;
+  background-size: auto;
+}
+ #My.photo h1{
+  float:left;
+}
+ #bottom-search {
+  float:right;
+  margin: top 0px;
+}
+ #bottom-bar {
+  padding:6px;
+  height:0%;
+  width:0%;
+}
+ #content {
+  width: auto;
+  height: auto;
+ }
+  #url {
+  width: 0px;
+  height: 0px;
+ }
+  #navbar-wrapper {
+   font-size: large;
+   border-radius: 0%;
+   box-sizing: 0%;
+  }
+}
