@@ -96,9 +96,13 @@
           </hr>
 							</a>
 					<a href="https://httpsrathanaphon.website.co.in/login">
-            <div class="btn btn-outline-primary">
+            <div class="btn btn-outline-login">
 							<Login>
+
 							</a>			
+
+							</a>				
+
   					</div>
   						<button class="button_1" type="submit">Send</button>					
 							<User name>
