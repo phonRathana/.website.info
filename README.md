@@ -96,28 +96,9 @@
           <button type="submit" class="button_1">Subscribe</button>
    </form>
 							</a>
-					<a href="https://httpsrathanaphon.website.info/login">
+					<a href="https://httpsrathanaphon.website.info/">
             <div class="btn btn-outline-primary">
 							<Login>
-							</a>				
-					<a href="https://httpsrathanaphon.website.info"> 
-             <div class="btn btn-outline-primary" target="_blank">
-					 </div>
-							<div>
-  							<label>Name</label><br>
-  							<input type="text" placeholder="Name">
-               </div>
-                 <div>
-                      <label>Lastname<label><br>                    <input type="text" placeholder="lastName">
-  					</div>
-  						<div>
-  							<label>Email</label><br>
-  							<input type="text" placeholder="Email Address">
-  					</div>
-  						<div>
-  							<label>Message</label><br>
-  							<input type="text"laceholder="Message text">
-  					</div>
   						<button class="button_1" type="submit">Send</button>					
 							<User name>
 <a href="https://play.google.com/Store/apps/details
