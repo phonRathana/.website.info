@@ -100,18 +100,14 @@
 				</a>
 					<a href="https://httpsrathanaphon.website.co.in/login">
             <div class="btn btn-outline-primary">
-							<Login>
-							</a>							
-							<User name>
+				  <Login>
+				  </a>							
+				  <User name>
 <a href="https://play.google.com/Store/apps/details
 id=5761455231/https://httpsrathanaphon.websote.co.in/"websitesapp" 
 <div class="btn btn-outline-primary" target="_blank">Website.https://httpsrathanaphon.website.co.in
-							</a> <i class="fab fa-Android"></i>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>			
+				</a> <i class="fab fa-Android"></i>
+		</div>	
  <body>
 <html>
   
