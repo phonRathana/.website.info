@@ -69,7 +69,7 @@
      <a "query-input": "required name=search_term_string"
 }
 </script>
-	</head>
+</head>
 	<body style="height: 640px;width: 320px background-color:#fffff">
 		<div class="container d-flex h-100">
 			<div class="row justify-content-center align-self-center">
@@ -80,46 +80,43 @@
 								<img src="https://httpsrathanaphonwebsite.co.in/files/9711938/landing/img/logo_color_116x41dp.png" 
           <div class="card-img-top img-responsive" alt=Rathana phone shop1">
              <img class="bussing-brand-logo-">
-								<nav id="navbar-wrapper" class="navbar navbar-expand-lg navbar-light">
+					<nav id="navbar-wrapper" class="navbar navbar-expand-lg navbar-light">
         <div class="container">
 		  		</div>
-						<div class="Card-body text-center">
-							<h5 class="card-title">
-							  <p class="card-text">
-							</hr>
-								<p subscription""To continue to use websites./https://httpsrathanaphon.website.co.in-"Buy Subscription" below, or for more info login to your https://httpsrathanaphon.website.co.in-"account.				
+			<div class="Card-body text-center">
+				<h5 class="card-title">
+	</hr>
+<p subscription""To continue to use websites./https://httpsrathanaphon.website.co.in-"Buy Subscription" below, or for more info login to your https://httpsrathanaphon.website.co.in-"account.				
 "description": "Business As a loyal partner sell technology"<Buy Subcription"">
-         </hr>
    </form>
-          <input type="email" placeholder="Enter Email..." required>
-          <button type="submit" class="button_1">Subscribe</button>
-  				<button class="button_1" type="submit">Send</button>			
+      <input type="email" placeholder="Enter Email..." required>
+      <button type="submit" class="button_1">Subscribe</button>
+  		<button class="button_1" type="submit">Send</button>			
    </form>
       </hr>
-		 </a>
-		 <a href="https://httpsrathanaphon.website.co.in/login">
-      <div class="btn btn-outline-login">
-		 <Login>
-		 </a>				
-  	   </div>
-</head>
-<body>
-</form>
-      <button type="button" onclick="login()"> login </button>
-      <button type="button" onclick="click()"> click </button>			
-		  <User name>
-</div>					
-   </form>
-          </hr>
-				</a>
+	 </a>
+	 <a href="https://httpsrathanaphon.website.co.in/login">
+    <div class="btn btn-outline-login">
+	 <Login>
+	 </a>
 <a href="https://httpsrathanaphon.website.co.in/login">
 <a href="https://play.google.com/Store/apps/details
 id=5761455231/https://httpsrathanaphon.websote.co.in/"websitesapp" 
 <div class="btn btn-outline-primary" target="_blank">Website.https://httpsrathanaphon.website.co.in
-			</a> <i class="fab fa-Android"></i>			
-</body>
+	</a> <i class="fab fa-Android"></i>			
 <html>
-  
+<body>
+  <script type="text/javascript">
+    function myFunc() {
+       document.getElementById("demo").innerHTML = "Hello Everyone!";
+    }
+   </script>
+</head>
+ <body>
+     <p id="demo"> Hello World! </p>
+     <button type="button" onclick="myFunc()">longin</button>
+</body>
+</html>
    
 
                            
