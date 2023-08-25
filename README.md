@@ -1,6 +1,4 @@
 
-
-
 <!DOCTYPE html>
 <html lang="en">
 </html>
@@ -95,27 +93,35 @@
    </form>
           <input type="email" placeholder="Enter Email..." required>
           <button type="submit" class="button_1">Subscribe</button>
-        	<button class="button_1" type="submit">Send</button>					
-					
+        	<button class="button_1" type="submit">Send</button>										
    </form>
           </hr>
 				</a>
 					<a href="https://httpsrathanaphon.website.co.in/login">
-            <div class="btn btn-outline-primary">
-							<Login>
-							</a>							
-							<User name>
+         <div class="btn btn-outline-primary">
+					<Login>
+					</a>							
+					<User name>
 <a href="https://play.google.com/Store/apps/details
 id=5761455231/https://httpsrathanaphon.websote.co.in/"websitesapp" 
 <div class="btn btn-outline-primary" target="_blank">Website.https://httpsrathanaphon.website.co.in
-							</a> <i class="fab fa-Android"></i>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>			
+			</a> <i class="fab fa-Android">
+html>
+<body>
+  <script type="text/javascript">
+    function myFunc() {
+       document.getElementById("demo").innerHTML = "Hello Everyone!";
+    }
+   </script>
+</head>
  <body>
-<html>
+     <p id="demo"> Hello World! </p>
+     <button type="button" onclick="myFunc()">longin</button>
+</body>
+</html>
+
+			
+		
   
    
 
