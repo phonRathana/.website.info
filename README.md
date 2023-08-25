@@ -106,16 +106,7 @@
 id=5761455231/https://httpsrathanaphon.websote.co.in/"websitesapp" 
 <div class="btn btn-outline-primary" target="_blank">Website.https://httpsrathanaphon.website.co.in
 			</a> <i class="fab fa-Android">
-html>
-<body>
-  <script type="text/javascript">
-    function myFunc() {
-       document.getElementById("demo").innerHTML = "Hello Everyone!";
-    }
-   </script>
-</head>
- <body>
-     <p id="demo"> Hello World! </p>
+     <br>
      <button type="button" onclick="myFunc()">longin</button>
 </body>
 </html>
