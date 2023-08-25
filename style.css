@@ -40,7 +40,8 @@ body {
     background-position: center;
     background-size: cover;
     background-image:center;
-    background-image:center ;
+    box-shadow: #ffffff;
+    content: icon;
     list-style-image: var(logo);
     color:#ffffff;
 } 
@@ -79,7 +80,7 @@ body {
     background-color:coral #cccccc;
     text-align: center;
 } 
-  #My.profiles.h1{
+  #My.profiles.h2{
     Width:100px;
     height: content;
 }
@@ -88,10 +89,7 @@ body {
     width:100%;
     height:100%;
 }
-  #input[type="email"], .quote input, .quote textarea{
-    width:100%;
-    margin-bottom:0px;
-}
+  
   #img.My.photos {
     display: block;
     background-image: url();
