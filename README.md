@@ -1,6 +1,4 @@
 
-
-
 <!DOCTYPE html>
 <html lang="en">
 </html>
@@ -95,8 +93,7 @@
    </form>
           <input type="email" placeholder="Enter Email..." required>
           <button type="submit" class="button_1">Subscribe</button>
-        	<button class="button_1" type="submit">Send</button>					
-					
+        	<button class="button_1" type="submit">Send</button>										
    </form>
           </hr>
 				</a>
