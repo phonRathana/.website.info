@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 </html>
@@ -36,15 +35,15 @@
     <a href="https://httpsrathanaphon.websites.co.in" class="logo logo-img-3x">
        <img class="business-logo mr-3" src="https://httpsrathanaphon.websites.co.in/files/971938/business/logo/logo-1332537698.jpeg?v=744005152"width="300px height="100px">
         <!-- Favicon -->
-    <link rel="icon" href="https://httpsrathanaphon.websites.co.in/files/971938/favicon/favicon.png?v=1078145314" type="image/png" />
+   <link rel="icon" href="https://httpsrathanaphon.websites.co.in/files/971938/favicon/favicon.png?v=1078145314" type="image/png" />
         <!-- Google font -->
-    <link rel="preload" as="font" href="https://fonts.googleapis.com/css?family=Playfair+Display|Roboto" onload="this.rel='stylesheet'">
+   <link rel="preload" as="font" href="https://fonts.googleapis.com/css?family=Playfair+Display|Roboto" onload="this.rel='stylesheet'">
         <!-- BS4 minified v1.0.0 CSS -->
-    <link rel="stylesheet" href="https://httpsrathanaphon.websites.co.in/e-shop/css/bootstrap.min.css">
+   <link rel="stylesheet" href="https://httpsrathanaphon.websites.co.in/e-shop/css/bootstrap.min.css">
         <!-- Custom minified CSS -->
-     <link rel="stylesheet" href="eventEditData: {         
-     <link rel="stylesheet" href="https://httpsrathanaphon.websites.co.in/e-shop/css/ecommerce.min.css?v=1627190672">       
-     <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.5.0/css/ol.css" type="text/css">
+    <link rel="stylesheet" href="eventEditData: {         
+    <link rel="stylesheet" href="https://httpsrathanaphon.websites.co.in/e-shop/css/ecommerce.min.css?v=1627190672">       
+    <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.5.0/css/ol.css" type="text/css">
         <!-- FontAwesome -->
     <link rel="stylesheet" href="https://httpsrathanaphon.websites.co.in/e-shop/fonts/css/all.min.css">
         <!-- Fancybox API -->
@@ -86,13 +85,31 @@
 						<div class="Card-body text-center">
 							<h5 class="card-title">
 							  <p class="card-text">
-							</hr>
-								<p subscription""To continue to use websites./https://httpsrathanaphon.website.co.in-"Buy Subscription" below, or for more info login to your https://httpsrathanaphon.website.co.in-"account.				
-"description": "Business As a loyal partner sell technology"<Buy Subcription"">
+		   </hr>
+<p subscription""To continue to use websites./https://httpsrathanaphon.website.co.in-"Buy Subscription" below, or for more info login to your https://httpsrathanaphon.website.co.in-"account.				
+"description": "Business As a loyal partner sell technology"<Buy Subcription"></p>
+        </hr>
    </form>
           <input type="email" placeholder="Enter Email..." required>
           <button type="submit" class="button_1">Subscribe</button>
+  				<button class="button_1" type="submit">Send</button>			
    </form>
+      </hr>
+		 </a>
+		 <a href="https://httpsrathanaphon.website.co.in/login">
+      <div class="btn btn-outline-login">
+		 <Login>
+		 </a>				
+  	   </div>
+</head>
+<body>
+</form>
+      <button type="button" onclick="login()"> login </button>
+      <button type="button" onclick="click()"> click </button>			
+		  <User name>
+</div>					
+   </form>
+
 							</a>
 					<a href="https://httpsrathanaphon.website.co.in/">
             <div class="btn btn-outline-login">
@@ -100,18 +117,19 @@
   					</div>
   					<button class="button_1" type="submit">Send</button>					
 					<User name>
+
+      </hr>
+		 </a>
+<a href="https://httpsrathanaphon.website.co.in/login">
+
 <a href="https://play.google.com/Store/apps/details
 id=5761455231/https://httpsrathanaphon.websote.co.in/"websitesapp" 
 <div class="btn btn-outline-primary" target="_blank">Website.https://httpsrathanaphon.website.co.in
-							</a> <i class="fab fa-Android"></i>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>			
- <body>
+			</a> <i class="fa fa-Android"></i>			
+</body>
 <html>
   
    
 
                            
+
