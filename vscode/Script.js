@@ -6,15 +6,11 @@
    console.log('Image URL: ' + profile.getImageUrl()); 
    console.log('Email: ' + profile.getEmail());  
 
- <button id onclick="signin();">Signin</a></button> 
+ <button id onclick="signin();">Signin</button> 
    function signin() { 
      var auth2 = gapi.auth2.getAuthInstance(); 
      auth1.signin().then(function () { 
        console.log('User signin.'); 
      });
    }
-   function SigninClick()
-   {
-       document.getElementById("signIn").innerHTML.toggle("active");
-       document.getElementById("ul").innerHTML.toggle("link");
-    }
+ function SigninClick()
